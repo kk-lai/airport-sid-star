@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProceduresDB build='By Kevin King'>
+    <Airport ICAOcode="VHHH">
+        <Sid Name="ATEN2A" Runways="07R">
+            <Sid_Waypoint ID="1">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>COLEY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.111397222</Latitude>
+                <Longitude>114.310452778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>ATENA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.411069444</Latitude>
+                <Longitude>114.38663333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>BEKOL</Name>
+                <Type>Normal</Type>
+                <Latitude>22.543333333</Latitude>
+                <Longitude>114.133333333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>15700</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="ATEN3C" Runways="07L">
+            <Sid_Waypoint ID="1">
+                <Name>ROVER</Name>
+                <Type>Normal</Type>
+                <Latitude>22.343216667</Latitude>
+                <Longitude>114.027533333</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>COLEY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.111397222</Latitude>
+                <Longitude>114.310452778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>ATENA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.411069444</Latitude>
+                <Longitude>114.38663333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>BEKOL</Name>
+                <Type>Normal</Type>
+                <Latitude>22.543333333</Latitude>
+                <Longitude>114.133333333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>15700</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="BEKO3A" Runways="07R">
+            <Sid_Waypoint ID="1">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>ATENA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.411069444</Latitude>
+                <Longitude>114.386633333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>BEKOL</Name>
+                <Type>Normal</Type>
+                <Latitude>22.543333333</Latitude>
+                <Longitude>114.133333333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>15700</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="BEKO4C" Runways="07L">
+            <Sid_Waypoint ID="1">
+                <Name>ROVER</Name>
+                <Type>Normal</Type>
+                <Latitude>22.343216667</Latitude>
+                <Longitude>114.027533333</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>ATENA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.411069444</Latitude>
+                <Longitude>114.386633333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>BEKOL</Name>
+                <Type>Normal</Type>
+                <Latitude>22.543333333</Latitude>
+                <Longitude>114.133333333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>15700</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="LAKE3A" Runways="07R">
+            <Sid_Waypoint ID="1">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>SHELY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.090736111</Latitude>
+                <Longitude>114.653872222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>LAKES</Name>
+                <Type>Normal</Type>
+                <Latitude>21.978138889</Latitude>
+                <Longitude>114.910722222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="LAKE4C" Runways="07L">
+            <Sid_Waypoint ID="1">
+                <Name>ROVER</Name>
+                <Type>Normal</Type>
+                <Latitude>22.343216667</Latitude>
+                <Longitude>114.027533333</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>SHELY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.090736111</Latitude>
+                <Longitude>114.653872222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>LAKES</Name>
+                <Type>Normal</Type>
+                <Latitude>21.978138889</Latitude>
+                <Longitude>114.910722222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="OCEA2A" Runways="07R">
+            <Sid_Waypoint ID="1">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>OCEAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.811944</Latitude>
+                <Longitude>114.813333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="OCEA3C" Runways="07L">
+            <Sid_Waypoint ID="1">
+                <Name>ROVER</Name>
+                <Type>Normal</Type>
+                <Latitude>22.343216667</Latitude>
+                <Longitude>114.027533333</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>OCEAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.811944</Latitude>
+                <Longitude>114.813333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="PECA1A" Runways="07R">
+            <Sid_Waypoint ID="1">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>BREAM</Name>
+                <Type>Normal</Type>
+                <Latitude>21.779444444</Latitude>
+                <Longitude>114.057777778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>TITAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.674277778</Latitude>
+                <Longitude>114.0507</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>PECAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.438941667</Latitude>
+                <Longitude>114.0349</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="PECA2C" Runways="07L">
+            <Sid_Waypoint ID="1">
+                <Name>ROVER</Name>
+                <Type>Normal</Type>
+                <Latitude>22.343216667</Latitude>
+                <Longitude>114.027533333</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>BREAM</Name>
+                <Type>Normal</Type>
+                <Latitude>21.779444444</Latitude>
+                <Longitude>114.057777778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>TITAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.674277778</Latitude>
+                <Longitude>114.0507</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>PECAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.438941667</Latitude>
+                <Longitude>114.0349</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="RASS3A" Runways="07R">
+            <Sid_Waypoint ID="1">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>OCEAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.811944</Latitude>
+                <Longitude>114.813333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>RASSE</Name>
+                <Type>Normal</Type>
+                <Latitude>21.792916667</Latitude>
+                <Longitude>115.330305556</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="RASS4C" Runways="07L">
+            <Sid_Waypoint ID="1">
+                <Name>ROVER</Name>
+                <Type>Normal</Type>
+                <Latitude>22.343216667</Latitude>
+                <Longitude>114.027533333</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>OCEAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.811944</Latitude>
+                <Longitude>114.813333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>RASSE</Name>
+                <Type>Normal</Type>
+                <Latitude>21.792916667</Latitude>
+                <Longitude>115.330305556</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="SKAT3A" Runways="07R">
+            <Sid_Waypoint ID="1">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>OCEAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.811944</Latitude>
+                <Longitude>114.813333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>SKATE</Name>
+                <Type>Normal</Type>
+                <Latitude>21.531941667</Latitude>
+                <Longitude>115.144427778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="SKAT4C" Runways="07L">
+            <Sid_Waypoint ID="1">
+                <Name>ROVER</Name>
+                <Type>Normal</Type>
+                <Latitude>22.343216667</Latitude>
+                <Longitude>114.027533333</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>OCEAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.811944</Latitude>
+                <Longitude>114.813333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>SKATE</Name>
+                <Type>Normal</Type>
+                <Latitude>21.531941667</Latitude>
+                <Longitude>115.144427778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="VENG1A" Runways="07R">
+            <Sid_Waypoint ID="1">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>LAKES</Name>
+                <Type>Normal</Type>
+                <Latitude>21.978138889</Latitude>
+                <Longitude>114.910722222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>VENGO</Name>
+                <Type>Normal</Type>
+                <Latitude>21.987825</Latitude>
+                <Longitude>115.269016666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="VENG2C" Runways="07L">
+            <Sid_Waypoint ID="1">
+                <Name>ROVER</Name>
+                <Type>Normal</Type>
+                <Latitude>22.343216667</Latitude>
+                <Longitude>114.027533333</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RAMEN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160894444</Latitude>
+                <Longitude>114.086080556</Longitude>
+                <Speed>220</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>LAKES</Name>
+                <Type>Normal</Type>
+                <Latitude>21.978138889</Latitude>
+                <Longitude>114.910722222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>VENGO</Name>
+                <Type>Normal</Type>
+                <Latitude>21.987825</Latitude>
+                <Longitude>115.269016666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="BEKO2B" Runways="25L">
+            <Sid_Waypoint ID="1">
+                <Name>PRAWN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RUMSY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.0816666666667</Latitude>
+                <Longitude>113.805</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>TUNNA</Name>
+                <Type>Normal</Type>
+                <Latitude>21.790278</Latitude>
+                <Longitude>113.965</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>SAMON</Name>
+                <Type>Normal</Type>
+                <Latitude>21.906591667</Latitude>
+                <Longitude>114.209152778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>BEKOL</Name>
+                <Type>Normal</Type>
+                <Latitude>22.543333333</Latitude>
+                <Longitude>114.133333333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="BEKO3D" Runways="25R">
+            <Sid_Waypoint ID="1">
+                <Name>PRAWN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RUMSY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.0816666666667</Latitude>
+                <Longitude>113.805</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>TUNNA</Name>
+                <Type>Normal</Type>
+                <Latitude>21.790278</Latitude>
+                <Longitude>113.965</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>SAMON</Name>
+                <Type>Normal</Type>
+                <Latitude>21.906591667</Latitude>
+                <Longitude>114.209152778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>BEKOL</Name>
+                <Type>Normal</Type>
+                <Latitude>22.543333333</Latitude>
+                <Longitude>114.133333333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="LAKE2B" Runways="25L">
+            <Sid_Waypoint ID="1">
+                <Name>PRAWN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RUMSY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.0816666666667</Latitude>
+                <Longitude>113.805</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>TUNNA</Name>
+                <Type>Normal</Type>
+                <Latitude>21.790278</Latitude>
+                <Longitude>113.965</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>TROUT</Name>
+                <Latitude>21.798611111</Latitude>
+                <Longitude>114.270277778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>14000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>LAKES</Name>
+                <Type>Normal</Type>
+                <Latitude>21.978138889</Latitude>
+                <Longitude>114.910722222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="LAKE3D" Runways="25R">
+            <Sid_Waypoint ID="1">
+                <Name>PRAWN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RUMSY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.0816666666667</Latitude>
+                <Longitude>113.805</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>TUNNA</Name>
+                <Type>Normal</Type>
+                <Latitude>21.790278</Latitude>
+                <Longitude>113.965</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>TROUT</Name>
+                <Latitude>21.798611111</Latitude>
+                <Longitude>114.270277778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>14000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>LAKES</Name>
+                <Type>Normal</Type>
+                <Latitude>21.978138889</Latitude>
+                <Longitude>114.910722222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="OCEA2B" Runways="25L">
+            <Sid_Waypoint ID="1">
+                <Name>PRAWN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RUMSY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.0816666666667</Latitude>
+                <Longitude>113.805</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>TUNNA</Name>
+                <Type>Normal</Type>
+                <Latitude>21.790278</Latitude>
+                <Longitude>113.965</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>TROUT</Name>
+                <Latitude>21.798611111</Latitude>
+                <Longitude>114.270277778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>14000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>OCEAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.811944</Latitude>
+                <Longitude>114.813333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="OCEA3D" Runways="25R">
+            <Sid_Waypoint ID="1">
+                <Name>PRAWN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RUMSY</Name>
+                <Type>Normal</Type>
+                <Latitude>22.0816666666667</Latitude>
+                <Longitude>113.805</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>TUNNA</Name>
+                <Type>Normal</Type>
+                <Latitude>21.790278</Latitude>
+                <Longitude>113.965</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>TROUT</Name>
+                <Latitude>21.798611111</Latitude>
+                <Longitude>114.270277778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>14000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>OCEAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.811944</Latitude>
+                <Longitude>114.813333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="PECA1B" Runways="25L">
+            <Sid_Waypoint ID="1">
+                <Name>PRAWN</Name>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RUMSY</Name>
+                <Latitude>22.0816666666667</Latitude>
+                <Longitude>113.805</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>TUNNA</Name>
+                <Latitude>21.790278</Latitude>
+                <Longitude>113.965</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>TITAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.674277778</Latitude>
+                <Longitude>114.0507</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>PECAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.438941667</Latitude>
+                <Longitude>114.0349</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="PECA2D" Runways="25R">
+            <Sid_Waypoint ID="1">
+                <Name>PRAWN</Name>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>205</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>RUMSY</Name>
+                <Latitude>22.0816666666667</Latitude>
+                <Longitude>113.805</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>TUNNA</Name>
+                <Latitude>21.790278</Latitude>
+                <Longitude>113.965</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>TITAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.674277778</Latitude>
+                <Longitude>114.0507</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>PECAN</Name>
+                <Type>Normal</Type>
+                <Latitude>21.438941667</Latitude>
+                <Longitude>114.0349</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+    </Airport>
+</ProceduresDB>
