@@ -1938,31 +1938,29 @@
                 <AltitudeCons>0</AltitudeCons>
                 <AltitudeRestriction>at</AltitudeRestriction>
             </App_Waypoint>
-            <App_Transition Name="LKC">
-                <AppTr_Waypoint ID="1">
-                    <Name>(4000)</Name>
-                    <Type>ConstHdgtoAlt</Type>
-                    <Latitude>0.000000</Latitude>
-                    <Longitude>0.000000</Longitude>
-                    <Speed>185</Speed>
-                    <Altitude>4000</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>above</AltitudeRestriction>
-                    <Hdg_Crs>1</Hdg_Crs>
-                    <Hdg_Crs_value>254</Hdg_Crs_value>
-                    <Sp_Turn>Auto</Sp_Turn>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="2">
-                    <Name>LKC</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.378922222</Latitude>
-                    <Longitude>113.883750000</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>5000</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>above</AltitudeRestriction>
-                </AppTr_Waypoint>                
-            </App_Transition>
+            <App_Waypoint ID="6">
+                <Name>(4000)</Name>
+                <Type>ConstHdgtoAlt</Type>
+                <Latitude>0.000000</Latitude>
+                <Longitude>0.000000</Longitude>
+                <Speed>185</Speed>
+                <Altitude>4000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+                <Hdg_Crs>1</Hdg_Crs>
+                <Hdg_Crs_value>254</Hdg_Crs_value>
+                <Sp_Turn>Auto</Sp_Turn>
+            </App_Waypoint>
+            <App_Waypoint ID="7">
+                <Name>LKC</Name>
+                <Type>Normal</Type>
+                <Latitude>22.378922222</Latitude>
+                <Longitude>113.883750000</Longitude>
+                <Speed>230</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
         </Approach>
         <Approach Name="LOC25R">
             <App_Waypoint ID="1">
@@ -2055,31 +2053,29 @@
                 <AltitudeCons>0</AltitudeCons>
                 <AltitudeRestriction>at</AltitudeRestriction>
             </App_Waypoint>
-            <App_Transition Name="LKC">
-                <AppTr_Waypoint ID="1">
-                    <Name>(4000)</Name>
-                    <Type>ConstHdgtoAlt</Type>
-                    <Latitude>0.000000</Latitude>
-                    <Longitude>0.000000</Longitude>
-                    <Speed>185</Speed>
-                    <Altitude>4000</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>above</AltitudeRestriction>
-                    <Hdg_Crs>1</Hdg_Crs>
-                    <Hdg_Crs_value>254</Hdg_Crs_value>
-                    <Sp_Turn>Auto</Sp_Turn>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="2">
-                    <Name>LKC</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.378922222</Latitude>
-                    <Longitude>113.883750000</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>5000</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>above</AltitudeRestriction>
-                </AppTr_Waypoint>
-            </App_Transition>
+            <App_Waypoint ID="10">
+                <Name>(4000)</Name>
+                <Type>ConstHdgtoAlt</Type>
+                <Latitude>0.000000</Latitude>
+                <Longitude>0.000000</Longitude>
+                <Speed>185</Speed>
+                <Altitude>4000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+                <Hdg_Crs>1</Hdg_Crs>
+                <Hdg_Crs_value>254</Hdg_Crs_value>
+                <Sp_Turn>Auto</Sp_Turn>
+            </App_Waypoint>
+            <App_Waypoint ID="11">
+                <Name>LKC</Name>
+                <Type>Normal</Type>
+                <Latitude>22.378922222</Latitude>
+                <Longitude>113.883750000</Longitude>
+                <Speed>230</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
         </Approach>
         <Approach Name="ILS25L">
             <App_Waypoint ID="1">
@@ -2142,18 +2138,16 @@
                 <AltitudeCons>0</AltitudeCons>
                 <AltitudeRestriction>at</AltitudeRestriction>
             </App_Waypoint>
-            <App_Transition Name="PRAWN">
-                <AppTr_Waypoint ID="1">
-                    <Name>PRAWN</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.268167</Latitude>
-                    <Longitude>113.811139</Longitude>
-                    <Speed>0</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-            </App_Transition>
+            <App_Waypoint ID="7">
+                <Name>PRAWN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
         </Approach>
         <Approach Name="LOC25L">
             <App_Waypoint ID="1">
@@ -2246,18 +2240,16 @@
                 <AltitudeCons>0</AltitudeCons>
                 <AltitudeRestriction>at</AltitudeRestriction>
             </App_Waypoint>
-            <App_Transition Name="PRAWN">
-                <AppTr_Waypoint ID="1">
-                    <Name>PRAWN</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.268167</Latitude>
-                    <Longitude>113.811139</Longitude>
-                    <Speed>0</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-            </App_Transition>
+            <App_Waypoint ID="10">
+                <Name>PRAWN</Name>
+                <Type>Normal</Type>
+                <Latitude>22.268167</Latitude>
+                <Longitude>113.811139</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
         </Approach>
         <Approach Name="ILS07R">
             <App_Waypoint ID="1">
@@ -2310,38 +2302,36 @@
                 <AltitudeCons>0</AltitudeCons>
                 <AltitudeRestriction>at</AltitudeRestriction>
             </App_Waypoint>
-            <App_Transition Name="SOKOE">
-                <AppTr_Waypoint ID="1">
-                    <Name>PORPA</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.335861111</Latitude>
-                    <Longitude>114.021194444</Longitude>
-                    <Speed>210</Speed>
-                    <Altitude>5000</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>below</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="2">
-                    <Name>GUAVA</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.160027778</Latitude>
-                    <Longitude>114.060083333</Longitude>
-                    <Speed>210</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="3">
-                    <Name>SOKOE</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.078111111</Latitude>
-                    <Longitude>113.843916667</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-            </App_Transition>
+            <App_Waypoint ID="6">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>210</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="7">
+                <Name>GUAVA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160027778</Latitude>
+                <Longitude>114.060083333</Longitude>
+                <Speed>210</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="8">
+                <Name>SOKOE</Name>
+                <Type>Normal</Type>
+                <Latitude>22.078111111</Latitude>
+                <Longitude>113.843916667</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
         </Approach>
         <Approach Name="LOC07R">
             <App_Waypoint ID="1">
@@ -2404,38 +2394,36 @@
                 <AltitudeCons>0</AltitudeCons>
                 <AltitudeRestriction>at</AltitudeRestriction>
             </App_Waypoint>
-            <App_Transition Name="SOKOE">
-                <AppTr_Waypoint ID="1">
-                    <Name>PORPA</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.335861111</Latitude>
-                    <Longitude>114.021194444</Longitude>
-                    <Speed>210</Speed>
-                    <Altitude>5000</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>below</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="2">
-                    <Name>GUAVA</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.160027778</Latitude>
-                    <Longitude>114.060083333</Longitude>
-                    <Speed>210</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="3">
-                    <Name>SOKOE</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.078111111</Latitude>
-                    <Longitude>113.843916667</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-            </App_Transition>
+            <App_Waypoint ID="7">
+                <Name>PORPA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.335861111</Latitude>
+                <Longitude>114.021194444</Longitude>
+                <Speed>210</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>below</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="8">
+                <Name>GUAVA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160027778</Latitude>
+                <Longitude>114.060083333</Longitude>
+                <Speed>210</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="9">
+                <Name>SOKOE</Name>
+                <Type>Normal</Type>
+                <Latitude>22.078111111</Latitude>
+                <Longitude>113.843916667</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
         </Approach>
         <Approach Name="ILS07L">
             <App_Waypoint ID="1">
@@ -2488,78 +2476,76 @@
                 <AltitudeCons>0</AltitudeCons>
                 <AltitudeRestriction>at</AltitudeRestriction>
             </App_Waypoint>
-            <App_Transition Name="SOKOE">
-                <AppTr_Waypoint ID="1">
-                    <Name>DEDEE</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.386861111</Latitude>
-                    <Longitude>114.017686111</Longitude>
-                    <Speed>200</Speed>
-                    <Altitude>5000</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="2">
-                    <Name>VH753</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.426922222</Latitude>
-                    <Longitude>114.060008333</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="3">
-                    <Name>VH754</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.456752778</Latitude>
-                    <Longitude>114.169638889</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="4">
-                    <Name>SAMPU</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.427552778</Latitude>
-                    <Longitude>114.261363889</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="5">
-                    <Name>TD</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.247894444</Latitude>
-                    <Longitude>114.293138889</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="6">
-                    <Name>GUAVA</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.160027778</Latitude>
-                    <Longitude>114.060083333</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="7">
-                    <Name>SOKOE</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.078111111</Latitude>
-                    <Longitude>113.843916667</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-            </App_Transition>
+            <App_Waypoint ID="6">
+                <Name>DEDEE</Name>
+                <Type>Normal</Type>
+                <Latitude>22.386861111</Latitude>
+                <Longitude>114.017686111</Longitude>
+                <Speed>200</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="7">
+                <Name>VH753</Name>
+                <Type>Normal</Type>
+                <Latitude>22.426922222</Latitude>
+                <Longitude>114.060008333</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="8">
+                <Name>VH754</Name>
+                <Type>Normal</Type>
+                <Latitude>22.456752778</Latitude>
+                <Longitude>114.169638889</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="9">
+                <Name>SAMPU</Name>
+                <Type>Normal</Type>
+                <Latitude>22.427552778</Latitude>
+                <Longitude>114.261363889</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="10">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="11">
+                <Name>GUAVA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160027778</Latitude>
+                <Longitude>114.060083333</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="12">
+                <Name>SOKOE</Name>
+                <Type>Normal</Type>
+                <Latitude>22.078111111</Latitude>
+                <Longitude>113.843916667</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
         </Approach>
         <Approach Name="LOC07L">
             <App_Waypoint ID="1">
@@ -2622,78 +2608,190 @@
                 <AltitudeCons>0</AltitudeCons>
                 <AltitudeRestriction>at</AltitudeRestriction>
             </App_Waypoint>
-            <App_Transition Name="SOKOE">
-                <AppTr_Waypoint ID="1">
-                    <Name>DEDEE</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.386861111</Latitude>
-                    <Longitude>114.017686111</Longitude>
-                    <Speed>200</Speed>
-                    <Altitude>5000</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="2">
-                    <Name>VH753</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.426922222</Latitude>
-                    <Longitude>114.060008333</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="3">
-                    <Name>VH754</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.456752778</Latitude>
-                    <Longitude>114.169638889</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="4">
-                    <Name>SAMPU</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.427552778</Latitude>
-                    <Longitude>114.261363889</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="5">
-                    <Name>TD</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.247894444</Latitude>
-                    <Longitude>114.293138889</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="6">
-                    <Name>GUAVA</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.160027778</Latitude>
-                    <Longitude>114.060083333</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-                <AppTr_Waypoint ID="7">
-                    <Name>SOKOE</Name>
-                    <Type>Normal</Type>
-                    <Latitude>22.078111111</Latitude>
-                    <Longitude>113.843916667</Longitude>
-                    <Speed>230</Speed>
-                    <Altitude>0</Altitude>
-                    <AltitudeCons>0</AltitudeCons>
-                    <AltitudeRestriction>at</AltitudeRestriction>
-                </AppTr_Waypoint>
-            </App_Transition>
+            <App_Waypoint ID="7">
+                <Name>DEDEE</Name>
+                <Type>Normal</Type>
+                <Latitude>22.386861111</Latitude>
+                <Longitude>114.017686111</Longitude>
+                <Speed>200</Speed>
+                <Altitude>5000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="8">
+                <Name>VH753</Name>
+                <Type>Normal</Type>
+                <Latitude>22.426922222</Latitude>
+                <Longitude>114.060008333</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="9">
+                <Name>VH754</Name>
+                <Type>Normal</Type>
+                <Latitude>22.456752778</Latitude>
+                <Longitude>114.169638889</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="10">
+                <Name>SAMPU</Name>
+                <Type>Normal</Type>
+                <Latitude>22.427552778</Latitude>
+                <Longitude>114.261363889</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="11">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="12">
+                <Name>GUAVA</Name>
+                <Type>Normal</Type>
+                <Latitude>22.160027778</Latitude>
+                <Longitude>114.060083333</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="13">
+                <Name>SOKOE</Name>
+                <Type>Normal</Type>
+                <Latitude>22.078111111</Latitude>
+                <Longitude>113.843916667</Longitude>
+                <Speed>230</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="VOR25R">
+            <App_Waypoint ID="1">
+                <Name>TD</Name>
+                <Type>Normal</Type>
+                <Latitude>22.247894444</Latitude>
+                <Longitude>114.293138889</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>FAF</Name>
+                <Type>Normal</Type>
+                <Latitude>22.3812861111111</Latitude>
+                <Longitude>114.117197222222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>SMT</Name>
+                <Type>Normal</Type>
+                <Latitude>22.3376194444444</Latitude>
+                <Longitude>113.982072222222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>MAPT</Name>
+                <Type>Normal</Type>
+                <Latitude>22.3266805555556</Latitude>
+                <Longitude>113.948088888889</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>RW25R</Name>
+                <Type>Runway</Type>
+                <Latitude>22.32170905</Latitude>
+                <Longitude>113.93123351</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="VOR07L">
+            <App_Waypoint ID="1">
+                <Name>LIMES</Name>
+                <Type>Normal</Type>
+                <Latitude>22.107111111</Latitude>
+                <Longitude>113.775722222</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>TONIC</Name>
+                <Type>Normal</Type>
+                <Latitude>22.2133</Latitude>
+                <Longitude>113.722736111</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>IF</Name>
+                <Type>Normal</Type>
+                <Latitude>22.2618527777778</Latitude>
+                <Longitude>113.743880555556</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>FAF</Name>
+                <Type>Normal</Type>
+                <Latitude>22.2781194444444</Latitude>
+                <Longitude>113.7949</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>MAPT</Name>
+                <Type>Normal</Type>
+                <Latitude>22.3024861111111</Latitude>
+                <Longitude>113.87145</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="6">
+                <Name>RW07L</Name>
+                <Type>Runway</Type>
+                <Latitude>22.31048105</Latitude>
+                <Longitude>113.89638651</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
         </Approach>
     </Airport>
 </ProceduresDB>
